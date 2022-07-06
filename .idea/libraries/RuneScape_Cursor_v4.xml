@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RuneScape_Cursor_v4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/RuneScape_Cursor_v4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
